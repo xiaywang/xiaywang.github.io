@@ -6,7 +6,7 @@ venue: "ETH Zurich"
 date: 2017-11-16
 location: Biomedical Engineering
 ref: cellbio
-permalink: https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?semkez=2017W&ansicht=ALLE&lerneinheitId=116050&lang=en
+link: https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?semkez=2017W&ansicht=ALLE&lerneinheitId=116050&lang=en
 ---
 
-Lecturer on imaging techniques for visualizing cells.
+Three-hour lecture on imaging techniques for visualizing cells on Nov 16, 2017.
