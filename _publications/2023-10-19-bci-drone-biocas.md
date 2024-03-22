@@ -1,6 +1,6 @@
 ---
 ref: biocas2023-bci-drone
-title: Enhancing Performance, Calibration Time and Efficiency in Brain-Machine Interfaces through Transfer Learning and Wearable EEG Technology
+title: "Enhancing Performance, Calibration Time and Efficiency in Brain-Machine Interfaces through Transfer Learning and Wearable EEG Technology"
 authors: Xiaying Wang, Lan Mei, Victor Kartsch, Andrea Cossettini, Luca Benini
 year: 2023
 venue: 2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)
